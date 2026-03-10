@@ -1,0 +1,5 @@
+{
+  "name": "ROCKFIT Fitness Hub",
+  "description": "Premium fitness gym in Charholi, Pune offering weight training, cardio, Zumba, Yoga, and CrossFit.",
+  "requestFramePermissions": ["geolocation"]
+}
