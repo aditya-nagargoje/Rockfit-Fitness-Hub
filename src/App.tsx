@@ -415,8 +415,8 @@ const Membership = () => {
 
 const Gallery = () => {
   const images = [
-    "https://unsplash.com/photos/two-person-inside-gym-exercising-buWcS7G1_28",
-    "https://unsplash.com/photos/young-sportsman-exercising-on-rowing-machine-while-working-out-in-a-gym-Kz-O7-aGm60",
+    "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=2070&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?q=80&w=2069&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
