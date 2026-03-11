@@ -415,8 +415,8 @@ const Membership = () => {
 
 const Gallery = () => {
   const images = [
-    "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=2070&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1581009146145-b5ef03a7403f?q=80&w=2070&auto=format&fit=crop",
+    "https://unsplash.com/photos/two-person-inside-gym-exercising-buWcS7G1_28",
+    "https://unsplash.com/photos/young-sportsman-exercising-on-rowing-machine-while-working-out-in-a-gym-Kz-O7-aGm60",
     "https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=2070&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?q=80&w=2069&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
@@ -528,7 +528,7 @@ const Contact = () => {
           </div>
           <div className="h-[450px] rounded-3xl overflow-hidden border border-white/10 grayscale contrast-125">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.4651351151603!2d73.9004445751944!3d18.64304998247653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c72877777777%3A0x1234567890abcdef!2sROCKFIT%20Fitness%20Hub!5e0!3m2!1sen!2sin!4v1710000000000!5m2!1sen!2sin" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.1419009824667!2d73.8835294738045!3d18.65762726497607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c753bd3e8f0f%3A0xf3f275d9d36904b5!2sROCKFIT%20Fitness%20Hub!5e0!3m2!1sen!2sin!4v1773232066945!5m2!1sen!2sin"
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
